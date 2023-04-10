@@ -1,6 +1,6 @@
 # CSC 212 Action Items
 
-![image](http://clipart-library.com/img1/1236219.png)
+![image](http://clipart-library.com/img1/1236219.png) 
 
 ## Labs
 
