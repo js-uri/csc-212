@@ -1,6 +1,6 @@
 # CSC 212 Action Items
 
-[image](http://clipart-library.com/img1/1236219.png)
+![image](http://clipart-library.com/img1/1236219.png)
 
 ## Labs
 
@@ -10,7 +10,7 @@ Labs often involve a series of tests that require students to write code, solve 
 
 Additionally, labs can provide an opportunity for students to work collaboratively with their peers and receive feedback from their instructors. This collaborative approach can help to reinforce key concepts and facilitate a deeper understanding of the material.
 
-[image](https://www.pixoka.com/wp-content/uploads/2020/09/1184927-an-error-occurred-seo-png-1132_920_preview-498x405.png)
+![image](https://www.pixoka.com/wp-content/uploads/2020/09/1184927-an-error-occurred-seo-png-1132_920_preview-498x405.png)
 
 ## Assignments
 
