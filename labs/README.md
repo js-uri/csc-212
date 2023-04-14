@@ -1,7 +1,3 @@
-# CSC 212 Action Items
-
-![image](https://remakelearning.org/wp-content/uploads/2017/08/labs_computers.jpg)
-
 ## Labs
 
 Labs are designed to provide hands-on experience to students in applying the concepts and theories taught in lectures. The purpose of labs is to allow students to gain practical skills and experience in programming and development with data structures and algorithms.
