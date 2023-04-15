@@ -1,6 +1,6 @@
-# Homework Assignment 1 (due Feb 8th)
+# Assignment 1
 
-The goal of this assignment is to provide a review of basic tasks using `C++`, such as, processing command line arguments, reading/writing files, manipulating data with arrays and matrices, and using an object oriented design.  The assignment is worth a total of 100 points. If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
+The goal of this assignment is to provide a review of basic tasks using `C++`, such as, processing command line arguments, reading/writing files, manipulating data with arrays and matrices, and using an object oriented design.  The assignment is worth a total of 50 points. If you have any questions or need any help, please visit us during office hours and/or post questions on edstem.
 
 > If you need to post any of your actual source code on Piazza for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
 
@@ -86,6 +86,7 @@ $ ./binarizer local cover.img cover_loc_15.img 15
 ### Image file format
 
 Each image is encoded as a matrix of pixel values where each pixel value is a grayscale intensity, basically an integer ranging from 0 to 255.  Lets call this format as the `img` format and use the extension `.img` for such files.  Within your program, you can represent an image either as a bidimensional array, or as an unidimensional array and design your algorithms properly.  When loading or saving images, each `img` file must be a `text file` where pixels values are separated by a single whitespace, and organized in `n` rows and `m` columns (the image dimensions).  For example, here is one file with 10 rows and 8 columns.  We prepared a few conversion scripts that can help you test your program with real-world examples, please refer to [this document](./examples).
+
 ```
 121 24 149 1 173 251 10 38 
 97 137 153 92 40 93 9 149 
@@ -98,6 +99,7 @@ Each image is encoded as a matrix of pixel values where each pixel value is a gr
 14 150 49 205 79 86 216 8 
 88 78 159 41 66 227 84 80 
 ```
+
 > Note that every pixel value is separated by a **single** whitespace.  There should not be any trailing whitespaces.
 
 ## Submission and Grading
