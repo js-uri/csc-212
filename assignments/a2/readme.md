@@ -1,8 +1,8 @@
-# Homework Assignment 2 (due February 22nd)
+# Assignment 2
 
-The goal of this assignment is to review the use of *classes* and *dynamic arrays* in `C++`, both in the context of a *maze generation* application.  The assignment is worth a total of 120 points. If you have any questions or need any help, please visit us during office hours and/or post questions on EdStem.
+The goal of this assignment is to review the use of *classes* and *dynamic arrays* in `C++`, both in the context of a *maze generation* application.  The assignment is worth a total of 50 points. If you have any questions or need any help, please visit us during office hours and/or post questions on EdStem.
 
-> If you need to post any of your actual source code on EdStem for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
+> If you need to post any of your actual source code on edstem for any reason, **please** be sure to tag the post as being *private* / *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
 
 ## What is a Maze?
 A maze is a puzzle, with starting and ending points, in which a player is tasked to find a path connecting an starting point to an ending point.  Many algorithms for automatically generating random mazes have been proposed.  In this assignment we will implement a *randomized depth-first search* approach that uses *dynamic arrays*.  For the context of this assignment, every maze is two-dimensional and it only contains 1 starting and 1 ending cell.  There should be exactly one path connecting both cells.  The example below illustrates a random maze of dimensions `n=6, m=12`, `n` rows and `m` columns.  Note that the starting point always happens at cell `0, 0` and the ending point at `n-1, m-1`.
