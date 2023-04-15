@@ -2,7 +2,7 @@
 
 The goal of this assignment is to provide a review of basic tasks using `C++`, such as, processing command line arguments, reading/writing files, manipulating data with arrays and matrices, and using an object oriented design.  The assignment is worth a total of 50 points. If you have any questions or need any help, please visit us during office hours and/or post questions on edstem.
 
-> If you need to post any of your actual source code on Piazza for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
+> If you need to post any of your actual source code on for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
 
 ## Image Binarization
 
