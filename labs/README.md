@@ -8,6 +8,9 @@ Additionally, labs can provide an opportunity for students to work collaborative
 
 ## Resources
 
-- [](https://www.youtube.com/watch?v=AI6Ccfno6Pk)
+To succeed in this course, you must understand the following concepts:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AI6Ccfno6Pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- [Command Line - CS50 Shorts](https://youtu.be/BnJ013X02b8)
+- [Command Line Arguments - CS50 Shorts](https://www.youtube.com/watch?v=AI6Ccfno6Pk)
+- [Pointers - CS50 Shorts](https://youtu.be/XISnO2YhnsY)
+- [File Pointers - CS50 Shorts](https://youtu.be/bOF-SpEAYgk)
