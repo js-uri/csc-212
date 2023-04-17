@@ -1,5 +1,7 @@
 # 212 Project
 
+![image](https://techworm.net/programming/wp-content/uploads/2018/07/pic.png)
+
 ## Breakdown
 
 In groups of 3-4 members you will research and evaluate a data structure / algorithm not covered in the course material. It will be your task to find a meaningful, unique application for your project.
