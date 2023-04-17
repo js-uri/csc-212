@@ -2,7 +2,7 @@
 
 ## Breakdown
 
-```` {card}
+
 In groups of 3-4 members you will research and evaluate a data structure / algorithm not covered in the course material. It will be your task to find a meaningful, unique application for your project.
 
 The project is broken out into three separate aspects:
@@ -12,35 +12,27 @@ The project is broken out into three separate aspects:
 - Project Report
 
 Each aspect will have specific requirements to meet to successfully complete the project overall.
-````
+
 
 ## Source Code
 
-```` {card} Code Repository
+### Code Repository
 
 - Your code from start to finish will live on GitHub.
   - Each group member must be connect via their own github account to a primary account which will be used for submission.
   - Individual contributions must be clear within the '[commits](https://docs.github.com/en/rest/commits?apiVersion=2022-11-28)' of the repo.
 
-````
-
-```` {card} Code Organization
+### Code Organization
 
 - Your code must adhere to a [best practice standard of programming](https://codesigningstore.com/ultimate-programming-best-practices-guide)...
 - All code to be evaluated must be included in the repo prior to final submission and saved with appropriate file extentions.
 
-````
-
-```` {card} Code Compiliation
+### Code Compiliation
 
 - EXPLICIT DEPENDENCIES AND INSTRUCTIONS HOW TO COMPILE YOUR CODE ARE REQUIRED!! Your code will not be graded without these directly outlined in a README within your repo
 - Incomplete and or non-working project code may still earn partial credit
 
-````
-
 ## Presentation
-
-```` {card} ~15 Minutes
 
 - Each group will be alotted 15 minutes to present. Working as a group it will be your responsibility to keep track of your time. Groups will be cut off at exactly 15 minutes. So please practice your presentations to maximize your time. A possible breakout of time may be:
   - explain your topic, structure / algorithm {~8 mins}
@@ -49,17 +41,13 @@ Each aspect will have specific requirements to meet to successfully complete the
 - Slides should be used to express key points and give the audience a focal point for conceptual information
 - Your project code should be used for practical demostration
 
-````
-
-```` {card} Partial Credit
+### Partial Credit
 
 - May be recieved for incomplete/non-working projects where deep understanding of the data structure / algorithm is proven
 
-````
-
 ## Report
 
-```` {card} Substance
+### Substance
 
 Must include the following:
 
@@ -96,16 +84,11 @@ Must include the following:
   - wrap up findings from your programming
   - formalize any other conclusions or predictions you can make relative to the topic and ways it may be used in the world
 
-````
-
-```` {card} Partial Credit
+### Partial Credit
 
 - May be granted to incomplete projects if the report includes sound, relevant information regardless of progress
-````
 
 ## Submission
-
-```` {card}
 
 Source Code
 : Gradescope: submit only the link to your group's primary project repository
@@ -118,56 +101,24 @@ Report
 
 **_Note: any portion missing from the Gradescope submission will not be graded..._**
 
-````
-
 ## Grading
 
-```` {card} Rubric
+### Rubric
 
 Presentation
 
-Group #  
+Group \#  
 
-```{list-table}
-
-* - 
-  - 0: No Credit
-  - 2: Poor
-  - 4: Acceptable
-  - 7: Good
-  - 10: Exceptional
-* - *Subject Knowledge* 
-  - 
-  - Goal of research unclear, information included that does not support research claims in any way.
-  - There is a great deal of information that is not clearly integrated or connected to the research.
-  - Sufficient information with many good points made, uneven balance and little consistency.
-  - An abundance of material clearly related to the research is presented. Points are clearly made and evidence is used to support claims
-* - *Organization*
-  - 
-  - Audience cannot understand presentation because there is no sequence of information.
-  - Audience has difficulty following presentation because the presentation jumps around and lacks clear transitions.
-  - Information is presented in logical sequence which audience can follow.
-  - Information is presented in a logical and interesting sequence which audience can follow. Flows well.
-* - *Communication*
-  - Presentation could not be followed
-  - Information is unclear/muddied but engaging
-  - X
-  - Communicates subject matter well but fails to engage the audience
-  - Connects and engages the audience to bring subject to life
-* - *Length*
-  - Too long or too short; ten or more minutes above or below allotted time.
-  - Within six minutes of allotted time +/-
-  - Within four minutes of allotted time +/-.
-  - X
-  - Within two minutes of allotted time +/-.
-
-```
-
-````
+| | No Credit | Poor | Acceptable | Good | Exceptional |
+| *--* | *--* | *--* | *--* | *--* | *--* |
+| Subject Knowledge | Goal of research unclear, information included that does not support research claims in any way. | There is a great deal of information that is not clearly integrated or connected to the research. | Sufficient information with many good points made, uneven balance and little consistency. | An abundance of material clearly related to the research is presented. Points are clearly made and evidence is used to support claims |
+| Organization | Audience cannot understand presentation because there is no sequence of information. | Audience has difficulty following presentation because the presentation jumps around and lacks clear transitions. | Information is presented in logical sequence which audience can follow. | Information is presented in a logical and interesting sequence which audience can follow. Flows well. |
+| Communication | Presentation could not be followed | Information is unclear/muddied but engaging | X | Communicates subject matter well but fails to engage the audience | Connects and engages the audience to bring subject to life |
+| Length | Too long or too short; ten or more minutes above or below allotted time. | Within six minutes of allotted time +/- | Within four minutes of allotted time +/-. | X | Within two minutes of allotted time +/-. |
 
 ## Topics
 
-````{card} $limit\ = 3$
+$limit\ = 3$
 
 
 **Sorting Algorithms**
