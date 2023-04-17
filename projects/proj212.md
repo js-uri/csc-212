@@ -110,7 +110,7 @@ Presentation
 Group \#  
 
 | | No Credit | Poor | Acceptable | Good | Exceptional |
-| *--* | *--* | *--* | *--* | *--* | *--* |
+| --- | --- | --- | --- | --- | --- |
 | Subject Knowledge | Goal of research unclear, information included that does not support research claims in any way. | There is a great deal of information that is not clearly integrated or connected to the research. | Sufficient information with many good points made, uneven balance and little consistency. | An abundance of material clearly related to the research is presented. Points are clearly made and evidence is used to support claims |
 | Organization | Audience cannot understand presentation because there is no sequence of information. | Audience has difficulty following presentation because the presentation jumps around and lacks clear transitions. | Information is presented in logical sequence which audience can follow. | Information is presented in a logical and interesting sequence which audience can follow. Flows well. |
 | Communication | Presentation could not be followed | Information is unclear/muddied but engaging | X | Communicates subject matter well but fails to engage the audience | Connects and engages the audience to bring subject to life |
