@@ -1,7 +1,7 @@
 # 212 Project
 
-![image](https://techworm.net/programming/wp-content/uploads/2018/07/pic.png)
-<style>img{align-self:center;}</style>
+<style>picture{text-align:center;}</style>
+<picture><img src="https://techworm.net/programming/wp-content/uploads/2018/07/pic.png" alt="image"></picture>
 
 ## Breakdown
 
