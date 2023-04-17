@@ -1,6 +1,7 @@
 # 212 Project
 
 ![image](https://techworm.net/programming/wp-content/uploads/2018/07/pic.png)
+<style>img{align-self:center;}</style>
 
 ## Breakdown
 
