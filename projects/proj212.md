@@ -105,10 +105,6 @@ Report
 
 ### Rubric
 
-Presentation
-
-Group \#  
-
 | | No Credit | Poor | Acceptable | Good | Exceptional |
 | --- | --- | --- | --- | --- | --- |
 | Subject Knowledge | Goal of research unclear, information included that does not support research claims in any way. | There is a great deal of information that is not clearly integrated or connected to the research. | Sufficient information with many good points made, uneven balance and little consistency. | An abundance of material clearly related to the research is presented. Points are clearly made and evidence is used to support claims |
