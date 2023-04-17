@@ -118,7 +118,7 @@ Group \#
 
 ## Topics
 
-$limit\ = 3$
+````{card} $limit\ = 3$
 
 
 **Sorting Algorithms**
