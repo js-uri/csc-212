@@ -1,7 +1,6 @@
-# Term Project
+# 212 Project
 
 ## Breakdown
-
 
 In groups of 3-4 members you will research and evaluate a data structure / algorithm not covered in the course material. It will be your task to find a meaningful, unique application for your project.
 
@@ -12,7 +11,6 @@ The project is broken out into three separate aspects:
 - Project Report
 
 Each aspect will have specific requirements to meet to successfully complete the project overall.
-
 
 ## Source Code
 
