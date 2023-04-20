@@ -77,10 +77,9 @@
 
    ```bash
    $ mkdir projects
-=======
-```bash
-$ touch test.cpp
-```
+   =======
+   $ touch test.cpp
+   ```
 
 Now, you should see `test.cpp` in your file manager on the left-hand side.
 
