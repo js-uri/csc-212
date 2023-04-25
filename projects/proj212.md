@@ -19,8 +19,10 @@ Each aspect will have specific requirements to meet to successfully complete the
 ### Code Repository
 
 - Your code from start to finish will live on GitHub.
-  - Each group member must be connect via their own github account to a primary account which will be used for submission.
+  - Each group member must **connect** via their own github account and **contribute** to a primary account which will be used for submission.
+    - *Any non-compliant members will not receive a project grade*  
   - Individual contributions must be clear within the '[commits](https://docs.github.com/en/rest/commits?apiVersion=2022-11-28)' of the repo.
+  - Repositiories less than seven (14) days old will result in a 10% reduction of project starting value
 
 ### Code Organization
 
