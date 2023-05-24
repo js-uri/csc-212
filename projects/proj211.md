@@ -46,6 +46,8 @@ Report
   - command line arguments
   - function/method calls
   - etc...
+- [ ] table with each members contributions
+  - Columns: member, contribution, started, completed, if not completed by same member, who was it completed by...
 
 Recording
 - [ ] provide a 8-12 minute code analysis (>12 minutes will result in loss of credit)
