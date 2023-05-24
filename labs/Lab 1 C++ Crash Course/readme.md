@@ -444,6 +444,8 @@ This principle allows an object to be treated as a different type so long as it 
 
 The hardest part of programming is figuring out where you went wrong. There are a few techniques we can use to narrow in on our mistakes:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCbuEJU8vSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 1. Rubber-duck debugging
    - Often we just need to methodically work through the code. Unfortunately, we tend to make assumptions while reviewing code that we wrote. In an effort to prevent glossing over key portions, the goal of this type of debugging is to explain the code to someone as if they had never seen it before. Since it can be difficult to find someone to speak to every time you get stuck (hint: a lot) it is helpful to substitute in a rubber duck. Yes, the generic kind you find in/around bath tubs. Here is a bit more reading on the subject (I recommend giving this a quick read!) https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/
 2. Print Statements
