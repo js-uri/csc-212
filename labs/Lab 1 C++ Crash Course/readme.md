@@ -189,7 +189,7 @@ Spend some time to create a text file with some content in it and use the `cat` 
 
 Before we move on, there are a few things about the shell you should know. The up arrow goes to previous commands. And if you think the computer can guess what you are typing, you can hit TAB to have it completed for you. For example, if `cd pro` is typed in terminal, and the TAB key is hit, the rest of the file name will be filled in. You can find more information on terminal commands [here](http://mally.stanford.edu/~sr/computing/basic-unix.html).
 
-#### Part 3. Command-Line Arguments
+#### Part 3. [Command-Line Arguments](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/)
 
 It is often helpful for us to specify how a program will run by providing arguments during the execution process. For example, normally compiling a program and running may look like this:
 
