@@ -465,7 +465,7 @@ Use what you learned in this lab to complete the following exercises:
 For the file given, it should behave as such:
 
 ```
-   g++ main.cpp Animal.cpp -o prog && ./prog 8 animals.txt
+   g++ main_2.cpp Animal.cpp -o prog && ./prog 8 animals.txt
 
    Woof!
    20
