@@ -1,4 +1,4 @@
-# Lab 03: Dynamic Arrays
+# Lab 02: Dynamic Arrays
 
 1. [Background Info](#background-info)
    1. [Arrays](#arrays)
