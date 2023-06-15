@@ -1,4 +1,4 @@
-# Lab 5 - Priority Queues!
+# Lab 4 - Priority Queues!
 
 
 ### Background Info
@@ -7,7 +7,7 @@ Priority Queues are a special form of queue that allow for "cutting in line". Th
 
 #### Linked List
 
-We'll be using Linked Lists as our base today. We are familiar with the Node & LinkedList classes as well as how they behave together from Lab 4.
+We'll be using Linked Lists as our base today. We are familiar with the Node & LinkedList classes as well as how they behave together from Lab 3.
 
 Node objects store Data & a reference to the next Node in the list. The LinkedList maintains a pointer to the first Node in the list ("head") and contains all of the operations that can be performed on the list. LinkedLists can also contain a "tail" pointer that points to the last element in the list.
 
