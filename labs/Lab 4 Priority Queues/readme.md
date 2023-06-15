@@ -173,10 +173,15 @@ This is the output for **PriorityQueue** with **test7.txt**
 Submit the following files to Gradescope:
 
 - main.cpp
-- queue.cpp
 - node.cpp
+- node.h
+- queue.cpp
+- queue.h
+  
 - main_2.cpp
-- priority_queue.cpp
 - priority_node.cpp
+- priority_node.h
+- priority_queue.cpp
+- priority_queue.h
 
-**Note: You must submit all 6 files every time in order for Gradescope to run.**
+**Note: You must submit all 10 files every time in order for Gradescope to run.**
