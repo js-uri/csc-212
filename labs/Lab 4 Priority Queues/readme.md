@@ -3,7 +3,7 @@
 
 ### Background Info
 
-Priority Queues are a special form of queue that allow for "cutting in line". This is beneficial when you want to want to enforce a FIFO (first in first out) ordering schema while also allowing more important entries to have priority.
+Priority Queues are a special form of queue that allow for "cutting in line". This is beneficial when you want to enforce a FIFO (first in first out) ordering schema while also allowing more important entries to have priority.
 
 #### Linked List
 
@@ -69,7 +69,7 @@ But fret not, there is a better way to implement a Priority Queue! But we'll lea
 
 ### Your Task
 
-You are given code for a working Linked List in the "lab 4 solution" folder and are tasked with modifying it to be a Queue, then a Priority Queue.
+You are given code for a working Linked List in the "lab 4_scaffolding" folder and are tasked with modifying it to be a Queue, then a Priority Queue.
 
 Hint: Add a `tail` pointer to your Queue in order to make the `enqueue` operation more efficient! This is not needed for PriorityQueue, however.
 
