@@ -141,7 +141,7 @@ An additional example is shown below:
 Your program should output the following values:
 ```bash
 $ ./path map2.txt 5 5
-3 3 1 5 no
+3 3 2 5 no
 ```
 
 ## `4. Arithmetic Expressions`
