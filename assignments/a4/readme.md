@@ -1,6 +1,6 @@
 # Homework Assignment 4
 
-The goal of this assignment is to practice recursion and stacks.  The assignment is worth a total of 50 points, from which 4 are extra/bonus points.  If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
+The goal of this assignment is to practice recursion and stacks.  The assignment is worth a total of 50 points.  If you have any questions or need any help, please visit us during office hours and/or post questions on edstem.
 
 > If you need to post any of your actual source code on Edstem for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
 
