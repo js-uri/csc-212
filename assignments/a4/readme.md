@@ -1,8 +1,8 @@
 # Homework Assignment 4 (due Apr 5th)
 
-The goal of this assignment is to practice recursion and stacks.  The assignment is worth a total of 120 points, from which 20 are extra/bonus points.  The assignment can be completed individually or in teams of 2 students.  If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
+The goal of this assignment is to practice recursion and stacks.  The assignment is worth a total of 50 points, from which 4 are extra/bonus points.  If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
 
-> If you need to post any of your actual source code on Piazza for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
+> If you need to post any of your actual source code on Edstem for any reason, **please** be sure to tag the post as being *visible to instructors only*, so that you don't inadvertently share code with others and violate class rules on *plagiarism*.
 
 ## `1. Counting Cells (20 pts)`
 Consider a grid of cells in two dimensions, where each cell is considered `empty` or `filled`.  Any number of cells that are *connected* constitutes a `blob`.  Every cell can either be connected to 4 adjacent cells (vertically, horizontally) or to 8 adjacent cells (vertically, horizontally, diagonally).  The goal of your program is to **recursively** count the number of cells in a blob, given a starting cell.
