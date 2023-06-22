@@ -1,4 +1,4 @@
-# Lab 07: Backtracking
+# Lab 05: Backtracking
 
 ## Introduction
 
