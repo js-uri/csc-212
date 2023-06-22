@@ -65,7 +65,7 @@ This process would repeat until we have a solution board:
 
 ## 2. N-Queens Problem
 
-The N-Queens problem is the task of placing eight chess queens on an NxN chessboard such that no two queens can attack each other. Let's take a look at this empty 8x8 chess board:
+The N-Queens problem is the task of placing `n` chess queens on an NxN chessboard such that no two queens can attack each other. Let's take a look at this empty 8x8 chess board:
 
 <p align="center">
   <img src="./images/chessboard.png" />
