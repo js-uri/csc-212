@@ -1,4 +1,4 @@
-# Homework Assignment 4 (due Apr 5th)
+# Homework Assignment 4
 
 The goal of this assignment is to practice recursion and stacks.  The assignment is worth a total of 50 points, from which 4 are extra/bonus points.  If you have any questions or need any help, please visit us during office hours and/or post questions on Piazza.
 
