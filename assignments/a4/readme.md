@@ -140,7 +140,7 @@ An additional example is shown below:
 
 Your program should output the following values:
 ```bash
-$ ./path map2.txt 5 5
+$ ./path map1.txt 5 5
 3 3 2 5 no
 ```
 
