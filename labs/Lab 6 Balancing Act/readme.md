@@ -187,7 +187,7 @@ Tree Height: 3
 ```
 
 ## 5.1 Bonus Task
-This lab has a bonus exercise worth 4 points (20% of a lab.)
+This lab has a bonus exercise worth 5 points (20% of the lab.)
 
 Implement the functionality to remove a node from the left-leaning binary search tree.
 
