@@ -1,4 +1,4 @@
-# Lab 09: Balancing Act
+# Lab 06: Balancing Act
 
 ## 1. Introduction
 
