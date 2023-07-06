@@ -121,7 +121,7 @@ In Chaining, instead of an array of keys, we have an array of lists that hold ke
 | Index | Value   |
 | ----- | ------- |
 | 0     |         |
-| 1     | 16 -> 1 |
+| 1     | 1 -> 16 |
 | 2     |         |
 | 3     | 13      |
 | 4     | 14      |
@@ -147,7 +147,7 @@ The table is currently 80% full, so we need to resize before the insert takes pl
 | Index | Value   |
 | ----- | ------- |
 | 0     |         |
-| 1     | 16 -> 1 |
+| 1     | 1 -> 16 |
 | 2     |         |
 | 3     | 13      |
 | 4     | 14      |
@@ -159,10 +159,10 @@ After re-sizing & re-inserting the old values:
 | 0     |   |
 | 1     | 1 |
 | 2     |   |
-| 3     | 3 |
-| 4     | 4 |
+| 3     | 13 |
+| 4     | 14 |
 | 5     |   |
-| 6     | 6 |
+| 6     | 16 |
 | 7     |   |
 | 8     |   |
 | 9     |   |
@@ -174,10 +174,10 @@ Now we can insert the 26:
 | 0     |         |
 | 1     | 1       |
 | 2     |         |
-| 3     | 3       |
-| 4     | 4       |
+| 3     | 13       |
+| 4     | 14       |
 | 5     |         |
-| 6     | 6 -> 26 |
+| 6     | 16 -> 26 |
 | 7     |         |
 | 8     |         |
 | 9     |         |
