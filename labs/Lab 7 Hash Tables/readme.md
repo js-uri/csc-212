@@ -1,4 +1,4 @@
-# Lab 10 Hash Tables
+# Lab 7 Hash Tables
 ---
 
 ## 1. Introduction
