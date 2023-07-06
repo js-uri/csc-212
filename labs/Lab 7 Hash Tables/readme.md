@@ -187,9 +187,9 @@ Now we can insert the 26:
 Your goal for this lab is to complete the following tasks:
 
 1. Write a program that accepts the name of an input file along with an integer dictating which hashing strategy is to be used.
-2. Implement the Linear Probing collision resolution strategy.
-2. Implement the Double Hashing collision resolution strategy.
-3. Implement the Separate Chaining collision resolution strategy.
+2. Implement the Linear Probing collision resolution strategy: integer 0.
+2. Implement the Double Hashing collision resolution strategy: integer 1.
+3. Implement the Separate Chaining collision resolution strategy: integer 2.
 4. Your table should resize if the number of elements added is >=70% of the table max size.
 5. For all strategies, you should keep track of the # of collisions and report it at the end.
 
