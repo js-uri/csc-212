@@ -34,6 +34,8 @@ Moving onto the Adjacency List, we now have a structure that stores each Vertex 
 
 In order to visualize the graphs we are coding, we will be using [the following website](https://dreampuf.github.io/GraphvizOnline/#digraph%20G%20%7B%0A%0A%20%20l1%20-%3E%20l2%3B%0A%20%20l2%20-%3E%20l3%3B%0A%0A%7D).
 
+*Note : if using cLion and interested in rendering the graph internally, in cLion goto Plugins an find and install "PlantUML". Next, visit [https://plantuml.com/graphviz-dot](https://plantuml.com/graphviz-dot) and follow the steps linsted for your device. If cLion is already open, restart the software. An icon for PlantUML should be on one of your toolbars, but an easy way to launch it is by going to the top banner bar and selecting `View` -> `Tool Windows` -> `PlantUML`. If your `.dot` file is already open, the graph should materialize immediately."*
+
 The .dot format in use is just a text file with specific formatting. Here are the commands you'll need to know:
 
 #### Main code block
